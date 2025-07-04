@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Não possuo experiência na área de back-end Java com spring, mas estou sempre estudando a tecnologia e buscando me preparar cada vez mais para quando a oportunidade chegar eu estar apto para contribuir com meus conhecimentos e habilidades. 
 
 ---
-### Principais Tecnologias:
+### 🤖Principais Tecnologias:
   
 <div> 
   
@@ -187,9 +187,10 @@
 <br style="clear: both;">  
 <br style="clear: both;">  
 
+### 📊Estatísticas
 <div>
-   <img  width="395rem" src="https://github-readme-stats.vercel.app/api?username=joao123marcos&show_icons=true&theme=dracula"/>
+   <img width="395rem" src="https://github-readme-stats.vercel.app/api?username=joao123marcos&show_icons=true&theme=dracula"/>
    
-  <img width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao123marcos&layout=compact&langs_count=6&theme=dracula"/>
+  <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao123marcos&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
