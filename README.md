@@ -14,7 +14,7 @@
   
   🚀 Experiência:
   Atualmente, trabalho no setor de Desenvolvimento de Software na Criare Tecnologia, estou nessa empresa há 8 anos, onde atuo no desenvolvendo novas features bem como dando manutenção no sistema de PDV. Este sistema é implementado em Delphi. Auxilio também nos testes agregando não apenas para equipe de desenvolvimento mas também na equipe de qualidade da empresa. Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade!   
-&nbsp;&nbsp;&nbsp;&nbsp;Não possuo experiência na área de back-end Java com spring, mas estou sempre estudando a tecnologia e buscando me preparar cada vez mais para quando a oportunidade chegar eu estar apto para contribuir com meus conhecimentos e habilidades. 
+&nbsp;&nbsp;&nbsp;&nbsp;Também tenho habilidades back-end Java com spring estou sempre estudando a tecnologia e buscando estar cada vez mais alinhado com essa tecnologia que a cada dia tem ganhado meu coração
 
 ---
 ### 🤖Principais Tecnologias:
