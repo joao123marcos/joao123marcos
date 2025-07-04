@@ -4,7 +4,7 @@
   
 </div>
 
-  💻👨‍💻Me chamo João Marcos, tenho 30 anos. Sou naturual de Guanambi-BA mas me criei em alguns lugares deste nosso gigantesco país, contudo atualmente eu estou residindo em Lavras- MG,  terra boa para se viver! Ela é conhecida pelo seus lindos Ipês de várias cores bem como uma paisagem natual fantástica. Desde criança sempre fui apaixonado pelo mundo da computação, lembro-me ainda como se fosse ontem eu desmontando, formantando e aprendendo coisas novas sobre computadores com meu avô.  
+  💻👨‍💻Me chamo João Marcos, tenho 30 anos. Sou naturual de Guanambi-BA mas morei em alguns lugares deste nosso gigantesco país, contudo atualmente eu estou residindo em Lavras- MG,  terra boa para se viver! Ela é conhecida pelo seus lindos Ipês de várias cores bem como uma paisagem natual fantástica. Desde criança sempre fui apaixonado pelo mundo da computação, lembro-me ainda como se fosse ontem eu desmontando, formantando e aprendendo coisas novas sobre computadores com meu avô.  
 &nbsp;&nbsp;&nbsp;&nbsp;Mais tarde, já na adolescência eu fiz um curso de montagem e manutenção de computadores e quando estava terminando meu ensino médio, 2013, já sabia o que queria fazer na gradução; ser um grande desenvolvedor de software! Sou apaixonado por tecnologia e estou sempre lendo alguma coisa na internet, ou vendo vídeos para estar em constante atualização. 
 
   📖 Formação:
