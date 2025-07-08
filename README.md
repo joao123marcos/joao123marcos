@@ -7,11 +7,11 @@
 Me chamo João Marcos, sou desenvolvedor de software com mais de 4 anos de experiência na Criare Tecnologia, focado no desenvolvimento e manutenção de aplicações desktop em Delphi, com profundo conhecimento das normas do sistema tributário financeiro do Brasil. Possuo sólida experiência em back-end com Java, Spring Boot e Hibernate, além de habilidades em bancos de dados relacionais e NoSQL. Minha proficiência se estende à orquestração de sistemas com Docker e Kubernetes e à gerência de configuração com Ansible e Terraform. Com um forte histórico em testes de software, demonstro dedicação à qualidade e adaptabilidade na resolução de desafios complexos.
 
 Habilidades:
-Orquestração e gerência de configuração: Docker, Kubernetes Ansible e Terraform
-Banco de dados: MySQL e Postgre, Mongodb
-Linguagens de programação: Java, JavaScript, C++, HTML, CSS
-Frameworks: Spring Boot
-Softkills: Trabalho em equipe, adaptibilidade, comunicação, etica profissional
+Orquestração e gerência de configuração: Docker, Kubernetes Ansible e Terraform  
+Banco de dados: MySQL e Postgre, Mongodb  
+Linguagens de programação: Java, JavaScript, C++, HTML, CSS  
+Frameworks: Spring Boot  
+Softkills: Trabalho em equipe, adaptibilidade, comunicação, etica profissional  
 
 ---
 ### 🤖Principais Tecnologias:
