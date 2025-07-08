@@ -4,17 +4,14 @@
   
 </div>
 
-  💻👨‍💻Me chamo João Marcos, tenho 30 anos. Sou naturual de Guanambi-BA mas morei em alguns lugares deste nosso gigantesco país, contudo atualmente eu estou residindo em Lavras- MG,  terra boa para se viver! Ela é conhecida pelo seus lindos Ipês de várias cores bem como uma paisagem natual fantástica. Desde criança sempre fui apaixonado pelo mundo da computação, lembro-me ainda como se fosse ontem eu desmontando, formantando e aprendendo coisas novas sobre computadores com meu avô.  
-&nbsp;&nbsp;&nbsp;&nbsp;Mais tarde, já na adolescência eu fiz um curso de montagem e manutenção de computadores e quando estava terminando meu ensino médio, 2013, já sabia o que queria fazer na gradução; me tornar um grande desenvolvedor de software! Sou apaixonado por tecnologia e estou sempre lendo alguma coisa na internet, ou vendo vídeos para estar em constante atualização. 
+Me chamo João Marcos, sou desenvolvedor de software com mais de 4 anos de experiência na Criare Tecnologia, focado no desenvolvimento e manutenção de aplicações desktop em Delphi, com profundo conhecimento das normas do sistema tributário financeiro do Brasil. Possuo sólida experiência em back-end com Java, Spring Boot e Hibernate, além de habilidades em bancos de dados relacionais e NoSQL. Minha proficiência se estende à orquestração de sistemas com Docker e Kubernetes e à gerência de configuração com Ansible e Terraform. Com um forte histórico em testes de software, demonstro dedicação à qualidade e adaptabilidade na resolução de desafios complexos.
 
-  📖 Formação:
-  
-  * Técnico em montagem e manutenção de computadores SENAC-GO
-  * Cursando Sistemas de informação - Fagammon
-  
-  🚀 Experiência:
-  Atualmente, trabalho no setor de Desenvolvimento de Software na Criare Tecnologia, estou nessa empresa há 8 anos, desenvolvendo novas features bem como dando manutenção no sistema de PDV. Este sistema é implementado em Delphi. Auxilio também nos testes agregando não apenas para equipe de desenvolvimento mas também na equipe de qualidade da empresa. Através da tecnologia busco encontrar meu lugar e colaborar com o mundo com muita disposição e criatividade!   
-&nbsp;&nbsp;&nbsp;&nbsp;Também tenho habilidades back-end Java com spring estou sempre estudando a tecnologia e buscando estar cada vez mais alinhado com essa tecnologia que a cada dia tem ganhado meu coração
+Habilidades:
+Orquestração e gerência de configuração: Docker, Kubernetes Ansible e Terraform
+Banco de dados: MySQL e Postgre, Mongodb
+Linguagens de programação: Java, JavaScript, C++, HTML, CSS
+Frameworks: Spring Boot
+Softkills: Trabalho em equipe, adaptibilidade, comunicação, etica profissional
 
 ---
 ### 🤖Principais Tecnologias:
