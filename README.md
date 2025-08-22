@@ -13,6 +13,8 @@ Linguagens de programação: Java, JavaScript, C++, HTML, CSS
 Frameworks: Spring Boot  
 Softkills: Trabalho em equipe, adaptibilidade, comunicação, etica profissional  
 
+Linkedin: www.linkedin.com/in/joao-marcos-pires-642585155
+E-mail: joaomarcos.spires@gmail.com
 ---
 ### 🤖Principais Tecnologias:
   
